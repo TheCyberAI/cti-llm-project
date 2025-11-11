@@ -1,0 +1,38 @@
+
+                APT35 (Charming Kitten) Cyber Threat Intelligence Report
+                
+                Overview:
+                APT35, also known as Charming Kitten or Newscaster, is an Iranian threat group active since 2014.
+                The group primarily targets diplomatic and government organizations in the Middle East and Western countries.
+                
+                Campaign: Operation Spoofed Scholars
+                Timeline: 2023-2024
+                Targets: Academic institutions, think tanks, government agencies
+                
+                Indicators of Compromise:
+                
+                Network Infrastructure:
+                - IP Address: 192.168.1.100
+                - IP Address: 10.0.0.50
+                - Domain: academic-research[.]com
+                - Domain: scholarship-portal[.]net
+                - URL: http://academic-research.com/update.exe
+                - URL: https://scholarship-portal.net/portal.zip
+                
+                Malware Hashes:
+                - MD5: a1d378111335d450769049446df79983
+                - MD5: ccfb3ba332962641c2ed075eb88070a
+                - SHA1: bb700e1ef97e1eed56bb275fde2c5faed008c225
+                - SHA1: 221f66582841ec2ef79a46d4f90b0e32642887ba
+                - SHA256: 35a485972282b7c0e8e3a7a9cbf86ad93856378f696cc8e230be5099cdb89208
+                - SHA256: 0300e7ad4c12273a42e4c95d854408b98b0cf5ef5f8c5ce05b24729b64e369
+                
+                Communication Channels:
+                - Email: admin@academic-research.com
+                - Email: support@scholarship-portal.net
+                
+                Tactics, Techniques & Procedures:
+                - Spear phishing with academic themes
+                - Fake scholarship and research portals
+                - Credential harvesting attacks
+                

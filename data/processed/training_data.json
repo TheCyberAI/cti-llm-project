@@ -1,0 +1,70 @@
+[
+  {
+    "prompt": "List Indicators of Compromise in CozyBear APT29 Report",
+    "completion": "## SHA256sum\n- ac8e59e8abeacf0885b45183372c0e3e8e249c88d21127b16ebe00f00c1409e6\n- cd2ba296828660ecd07a36e8931b851dda0802069ed926b3161745aae9aaddaa\n## MD5sum\n- 5c91c1d833173f6ae599ef1d4133f235\n- 45c3592373ba9e5f8f23c6b30fb4d2e4\n## SHA1sum\n- 2cb21b71e23cf108067bd02070343883618a5837\n- 1156c3f36800acac714bf78f870d7f066ad25edf\n## IP Addresses\n- 198.18.0.1\n- 192.168.100.200",
+    "metadata": {
+      "source_file": "CozyBear_APT29_Report.txt",
+      "ioc_counts": {
+        "sha256": 2,
+        "md5": 2,
+        "sha1": 2,
+        "ipv4": 2,
+        "urls": 2,
+        "domains": 2,
+        "emails": 0
+      },
+      "total_iocs": 12
+    }
+  },
+  {
+    "prompt": "List Indicators of Compromise in APT35 Threat Report",
+    "completion": "## SHA256sum\n- 35a485972282b7c0e8e3a7a9cbf86ad93856378f696cc8e230be5099cdb89208\n## MD5sum\n- a1d378111335d450769049446df79983\n## SHA1sum\n- bb700e1ef97e1eed56bb275fde2c5faed008c225\n- 221f66582841ec2ef79a46d4f90b0e32642887ba\n## IP Addresses\n- 192.168.1.100\n- 10.0.0.50",
+    "metadata": {
+      "source_file": "APT35_Threat_Report.txt",
+      "ioc_counts": {
+        "sha256": 1,
+        "md5": 1,
+        "sha1": 2,
+        "ipv4": 2,
+        "urls": 2,
+        "domains": 6,
+        "emails": 2
+      },
+      "total_iocs": 16
+    }
+  },
+  {
+    "prompt": "List Indicators of Compromise in FIN7 Malware Analysis",
+    "completion": "## SHA256sum\n- cd2ba296828660ecd07a36e8931b851dda0802069ed926b3161745aae9aaddaa\n- ac8e59e8abeacf0885b45183372c0e3e8e249c88d21127b16ebe00f00c1409e6\n## MD5sum\n- 5d41402abc4b2a76b9719d911017c592\n- 7d793037a0760186574b0280ce8a3b4d\n## SHA1sum\n- aaf4c61ddcc5e8a2dabede0f3b482cd9aea9434d\n- 5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8\n## IP Addresses\n- 203.0.113.45\n- 198.51.100.23",
+    "metadata": {
+      "source_file": "FIN7_Malware_Analysis.txt",
+      "ioc_counts": {
+        "sha256": 2,
+        "md5": 2,
+        "sha1": 2,
+        "ipv4": 2,
+        "urls": 2,
+        "domains": 3,
+        "emails": 0
+      },
+      "total_iocs": 13
+    }
+  },
+  {
+    "prompt": "List Indicators of Compromise in Lazarus Group Campaign",
+    "completion": "## SHA256sum\n## MD5sum\n- 3a62b26311583a23767c35d56b95175d\n## SHA1sum\n- aa791a0a98a30e10119b8cc1399ab1306275fc1f\n- 36fa5a020aca2cfab25661cf2ae7637de1aaf8d4\n## IP Addresses\n- 172.16.254.1\n- 192.0.2.146",
+    "metadata": {
+      "source_file": "Lazarus_Group_Campaign.txt",
+      "ioc_counts": {
+        "sha256": 0,
+        "md5": 1,
+        "sha1": 2,
+        "ipv4": 2,
+        "urls": 2,
+        "domains": 3,
+        "emails": 0
+      },
+      "total_iocs": 10
+    }
+  }
+]

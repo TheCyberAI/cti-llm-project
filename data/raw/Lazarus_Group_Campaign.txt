@@ -1,0 +1,33 @@
+
+                Lazarus Group Cyber Campaign Analysis
+                
+                Overview:
+                Lazarus Group is a North Korean state-sponsored threat group responsible for numerous high-profile attacks.
+                
+                Campaign: Operation Ghost Secret
+                Timeline: 2023-2024
+                Targets: Financial institutions, cryptocurrency exchanges
+                
+                Indicators of Compromise:
+                
+                Infrastructure:
+                - IP Address: 172.16.254.1
+                - IP Address: 192.0.2.146
+                - Domain: security-update[.]org
+                - Domain: blockchain-sync[.]com
+                - URL: http://security-update.org/patches.exe
+                - URL: https://blockchain-sync.com/wallet_update.dll
+                
+                Malware Hashes:
+                - MD5: 3a62b26311583a23767c35d56b95175d
+                - MD5: 10f5561b7515bc0d66916be04b63dae
+                - SHA1: aa791a0a98a30e10119b8cc1399ab1306275fc1f
+                - SHA1: 36fa5a020aca2cfab25661cf2ae7637de1aaf8d4
+                - SHA256: 767bd025c8e7d36f64dbd636ec0f29e873d1e3ca415d5a449053a68916fe894
+                - SHA256: safc59cd2b391988733eba427c8cf6e48bd2e9dc3d48a4db550655efe0dca798
+                
+                Attack Vectors:
+                - Watering hole attacks
+                - Supply chain compromise
+                - Social engineering
+                

@@ -1,0 +1,33 @@
+
+                APT29 (Cozy Bear) Intelligence Report
+                
+                Overview:
+                APT29, also known as Cozy Bear or The Dukes, is a Russian state-sponsored threat group.
+                
+                Campaign: SolarWinds Supply Chain Attack
+                Timeline: 2023-2024
+                Targets: Government agencies, IT service providers
+                
+                Indicators of Compromise:
+                
+                Infrastructure:
+                - IP Address: 198.18.0.1
+                - IP Address: 192.168.100.200
+                - Domain: software-update[.]net
+                - Domain: patch-management[.]com
+                - URL: https://software-update.net/oracle_java.exe
+                - URL: http://patch-management.com/adobe_flash.dll
+                
+                Tool Hashes:
+                - MD5: 5c91c1d833173f6ae599ef1d4133f235
+                - MD5: 45c3592373ba9e5f8f23c6b30fb4d2e4
+                - SHA1: 2cb21b71e23cf108067bd02070343883618a5837
+                - SHA1: 1156c3f36800acac714bf78f870d7f066ad25edf
+                - SHA256: ac8e59e8abeacf0885b45183372c0e3e8e249c88d21127b16ebe00f00c1409e6
+                - SHA256: cd2ba296828660ecd07a36e8931b851dda0802069ed926b3161745aae9aaddaa
+                
+                Techniques:
+                - API hijacking
+                - Golden SAML attacks
+                - Token theft
+                
