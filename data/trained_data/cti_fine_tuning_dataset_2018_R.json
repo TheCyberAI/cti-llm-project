@@ -1,0 +1,536 @@
+[
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-01-27.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Accenture-Security-Dragonfish-Threat-Analysis.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-01-09.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"ESET_Turla_Mosquito.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-01-04.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Iran_Cyber_Final_Full_v2.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-01-24.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Lazarus_Campaign_Targeting_Cryptocurrencies.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-01-18.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Neuron IOC Pack.rtf\",\n    \"Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-01-06.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Malicious Document Targets Pyeongchang Olympics _ McAfee Blogs.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-01-15.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"New_killdisk.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-01-11.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"North_Korean_Defectors_and_Journalists_Targeted.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-01-12.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Pawn_Storm_Update_2018.Jan.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-01-29.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"VERMIN_ Quasar RAT and Custom Malware Used In Ukraine.pdf\",\n    \"PoriewSpy.India.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-01-16.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"korea-in-crosshairs.html.pdf\",\n    \"Skygofree_appendix_eng.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-01-30.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"apt32-continues-asean-targeting.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-01-31.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"unit42-comnie-continues-target-organizations-east-asia.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-01-25.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"unit42-oilrig-uses-rgdoor-iis-backdoor-targets-middle-east.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-01-26.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"unit42-the-tophat-campaign-attacks-within-the-middle-east-region-using-popular-third-party-services.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-02-20.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Musical Chairs Playing Tetris.pdf\",\n    \"rpt_APT37.pdf\",\n    \"A Slice of 2017 Sofacy Activity - Securelist.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-02-21.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Avast tracks down Tempting Cedar Spyware.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-02-01.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Bitdefender-Business-2017-WhitePaper-PZCHAO-crea2452-en-EN-GenericUse.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-02-28.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Sofacy Attacks Multiple Government Entities.pdf\",\n    \"Chafer_ Latest Attacks Reveal Heightened Ambitions _ Symantec Blogs.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-02-02.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Gold_Dragon_Olympics_IoC.txt\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-02-13.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"deciphering-confucius.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-02-07.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"targeted-attacks-in-middle-east_VBS_CAMPAIGN_IOCS.txt\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-03-13.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"BlackTDS.pdf\",\n    \"ESET_OceanLotus.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-03-29.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"ChessMaster Adds Updated Tools to Its Arsenal.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-03-08.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"ukatemicrysys_territorialdispute.pdf\",\n    \"Donot Team in South Asia.pdf\",\n    \"olympicdestroyer.pdf\",\n    \"hidden-cobra-targets-turkish-financial-sector-new-bankshot-implant.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-03-14.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Inception Framework_ Alive and Well, and Hiding Behind Proxies _ Symantec Blogs.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-03-12.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"MuddyWater_Middle_East_and_Central_Asia.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-03-31.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"NavRAT.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-03-05.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"New_ComboJack_Steal_Cryptocurrency.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-03-02.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Operation_Honeybee.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-03-27.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Panda Banker Zeros.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-03-15.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Russian_Government_Cyber_Activity.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-03-06.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"The-Slingshot-APT_report_ENG_final.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-03-09.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"masha-and-these-bears.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-03-07.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"patchwork-continues-deliver-badnews.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-04-23.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"energetic-bear-crouching.pdf\",\n    \"Accenture-Hogfish-Threat-Analysis.pdf\",\n    \"orangeworm-targets-healthcare-us-europe-asia.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-04-27.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"CN_OceanLotus_new_malware.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-04-26.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"GravityRAT.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-04-04.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"MacOS_Backdoor_OceanLotus.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-04-24.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"operation-ghostsecret.pdf\",\n    \"sednit-update-analysis-zebrocy_.pdf\",\n    \"metamorfo-campaign-targeting-brazilian-users_html.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-04-17.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"nccgroup.trust-Decoding network data from a Gh0st RAT variant.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-05-03.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"20180503_Burning_Umbrella.pdf\",\n    \"Red_Eyes_Hacking_Group_Report.pdf\",\n    \"ZooPark_for_public_final_edit.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-05-23.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"[Report]Andariel_Threat_Group.pdf\",\n    \"VPNFilter.pdf\",\n    \"Confucius_Update.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-05-22.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"The_destruction_of_APT3.pdf\",\n    \"turla-mosquito-shift-towards-generic-tools.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-05-09.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"blogs_360_cn_blog_cve-2018-8174-en_.pdf\",\n    \"cta-2018-0509.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-05-29.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"iron-cybercrime-group-under-the-scope-2.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-06-23.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"[AhnLab]Andariel_a_Subgroup_of_Lazarus (3).pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-06-14.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"another-potential-muddywater-campaign-uses-powershell-based-prb-backdoor.pdf\",\n    \"miragefox-apt15-resurfaces-with-new-tools-based-on-old-ones.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-06-19.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"olympic-destroyer.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-06-06.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"vpnfilter-update.pdf\",\n    \"sofacy-groups-parallel-attacks.pdf\",\n    \"operation-prowli-traffic-manipulation-cryptocurrency-mining.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-06-07.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"patchwork-apt-group-targets-us-think-tanks.pdf\",\n    \"totally-tubular-treatise-on-triton-and-tristation.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-06-26.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"rancor-targeted-attacks-south-east-asia-using-plaintee-ddkong-malware-families_.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-07-13.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"20180713_CSE_APT28_X-Agent_Op-Roman Holiday-Report_v6_1.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-07-23.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"20180723_CSE_APT27_Syria_v1.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-07-12.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"MDM_India.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-07-08.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"hussarini---targeted-cyber-attack-in-the-philippines.pdf\",\n    \"apt-attack-middle-east-big-bang.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-07-31.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"malicious-document-targets-vietnamese-officials.pdf\",\n    \"bisonal-malware-used-attacks-russia-south-korea.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-07-09.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"certificates-stolen-taiwanese-tech.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-07-16.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"new-andariel-reconnaissance-tactics-hint-at-next-targets.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-08-29.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Appendix-TheUrpageConnectiontoBahamutConfuciusandPatchwork.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-08-30.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Double the Infection Double the Fun.pdf\",\n    \"In the Trails of WINDSHIFT APT.pdf\",\n    \"Two Birds One STONE PANDA.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-08-21.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Eset-Turla-Outlook-Backdoor.pdf\",\n    \"supply-chain-attack-operation-red-signature-targets-south-korean-organizations.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-08-02.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Goblin_Panda_against_Bears.pdf\",\n    \"The Gorgon Group Slithering Between Nation State and Cybercrime.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-08-01.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Malicious document targets Vietnamese officials.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-08-23.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Operation_AppleJeus.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-08-16.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"cta-2018-0816.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-09-13.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"APT10 Targeting Japanese Corporations Using Updated TTPs.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-09-07.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Domestic Kitten An Iranian Surveillance Operation.pdf\",\n    \"Goblin_Panda_targets_Cambodia.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-09-27.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"ESET-LoJax.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-09-10.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"LuckyMouse.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-09-04.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"oilrig-targets-middle-eastern-government-adds-evasion-techniques-oopsie.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-10-17.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"ESET_GreyEnergy.pdf\",\n    \"Cyber-Espionage Campaign Targeting the Naval Industry MartyMcFly.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-10-19.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"DarkPulsar.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-10-11.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Gallmaker New Attack Group Eschews Malware to Live off the Land.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-10-15.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Russian-language actor exploits hype over Telegram ban in Central Asia.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-10-18.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"rp-operation-oceansalt.pdf\",\n    \"Tracking Tick Through Recent Campaigns Targeting East Asia.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-10-03.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"rpt-apt38-2018-web_v4.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-11-30.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"3ve_google_whiteops_whitepaper_final_nov_2018.pdf\",\n    \"PowerShell-based Backdoor Found in Turkey Strikingly Similar to MuddyWater Tools.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-11-27.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"DNSpionage Campaign Targets Middle East.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-11-08.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"FASTCash How the Lazarus Group is Emptying Millions from ATMs.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-11-28.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Tropic_Trooper_microsoft.pdf\",\n    \"MuddyWater-Operations-in-Lebanon-and-Oman.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-11-20.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"blog.trendmicro.com-Lazarus Continues Heists Mounts Attacks on Financial Organizations in Latin America.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-11-13.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"cta-2018-1113.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-11-19.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-12-28.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Goblin Panda changes the dropper and reuses the old infrastructure.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-12-11.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Poking the Bear Three-Year Campaign Targets Russian Critical Infrastructure.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-12-13.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"The Return of The Charming Kitten.pdf\",\n    \"tech-brief-tildeb-analyzing-the-18-year-old-implant-from-the-shadow-brokers-leak.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-12-18.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"URSNIF, EMOTET, DRIDEX and BitPaymer Gangs Linked by a Similar Loader.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2018-12-12.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"rp-operation-sharpshooter.pdf\"\n  ]\n}"
+  }
+]

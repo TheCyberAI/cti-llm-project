@@ -1,0 +1,278 @@
+[
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-01-30.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Chafer used Remexi malware to spy on Iran-based foreign diplomatic entities.pdf\",\n    \"Operation_Kitty_Phishing.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-01-18.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"DarkHydrus delivers new Trojan that can use Google Drive for C2 communications.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-01-17.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Malware Used by Rocke Group Evolves to Evade Detection by Cloud Security Products.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-02-06.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"APT10 Targeted Norwegian MSP and US Companies in Sustained Campaign.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-02-05.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Analyzing Digital Quartermasters in Asia  Do Chinese and Indian APTs Have a Shared Supply Chain.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-02-25.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Defeating Compiler-Level Obfuscations Used in APT10 Malware.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-02-20.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"LAZARUS GROUP DIRECTED TO ORGANIZATIONS IN RUSSIA_google_translate.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-02-01.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"OceanLotus_KerrDown.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-02-26.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"The Arsenal Behind the Australian Parliament Hack.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-02-18.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"apt-c-36-continuous-attacks-targeting-colombian-government-institutions-and-corporations-en.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-03-28.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Threat Actor Group using UAC Bypass Module to run BAT File.pdf\",\n    \"Above+Us+Only+Stars.pdf\",\n    \"Desktop, Mobile Phishing Campaign Targets South Korean Websites, Steals Credentials Via Watering Hole.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-03-13.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"DMSniff_iocs_March2019.txt\",\n    \"GlitchPOS_New_Pos_Malwre_for_sale.pdf\",\n    \"Operation_Sheep.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-03-27.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Elfin Relentless Espionage Group Targets Multiple Organizations in Saudi Arabia and US.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-03-11.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Gaming-Industry.Asia.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-03-07.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"New SLUB Backdoor Uses GitHub Communicates via Slack.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-03-12.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Operation_Comando.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-03-06.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"taidoor_analysis_jp.pdf\",\n    \"Whitefly_ Espionage Group has Singapore in Its Sights.pdf\",\n    \"Operation_Pistacchietto.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-04-17.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Aggah Campaign_ Bit.ly, BlogSpot, and Pastebin Used for C2 in Large Scale Campaign.pdf\",\n    \"DNS Hijacking Abuses Trust In Core Internet Service.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-04-24.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"CyberInt_Legit Remote Access Tools Turn Into Threat Actors' Tools_Report.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-04-22.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"FINTEAM Trojanized TeamViewer Against Government Targets.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-04-19.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Funky malware format found in Ocean Lotus sample.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-04-10.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Project TajMahal.pdf\",\n    \"Gaza Cybergang Group1 operation SneakyPastes.pdf\",\n    \"The Muddy Waters of APT Attacks.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-04-02.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"OceanLotus-Steganography-Malware-Analysis-White-Paper.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-04-23.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Operation ShadowHammer.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-04-30.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"SectorB06 using Mongolian language in lure document.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-05-29.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"A dive into Turla PowerShell usage.pdf\",\n    \"TA505 is Expanding its Operations.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-05-22.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"A journey to Zebrocy land.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-05-07.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"ATMitch_ New Evidence Spotted In The Wild.pdf\",\n    \"ESET-LightNeuron.pdf\",\n    \"Buckeye_ Espionage Outfit Used Equation Group Tools Prior to Shadow Brokers Leak.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-05-11.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Chineses Actor APT target Ministry of Justice Vietnamese.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-05-28.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Emissary Panda Attacks Middle East Government Sharepoint Servers.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-05-19.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"HiddenWasp Malware Stings Targeted Linux Systems.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-05-08.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Iranian-Nation-State-APT-Leak-Analysis-and-Overview.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-05-18.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Operation_BlackLion_CN_Version.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-05-13.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"ScarCruft continues to evolve, introduces Bluetooth harvester _ Securelist.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-05-30.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Talos Blog __ Cisco Talos Intelligence Group - Comprehensive Threat Intelligence_ 10 years of virtual dynamite_ A high-level retrospective of ATM malware.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-05-24.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Uncovering New Activity By APT10.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-05-15.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Winnti_ More than just Windows and Gates.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-06-04.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"An-APT-Blueprint-Gaining-New-Visibility-into-Financial-Threats-interactive.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-06-25.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"MuddyC3.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-06-20.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"New Network Vermin from OceanLotus.pdf\",\n    \"OceanLotus.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-06-12.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Threat Group Cards.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-06-21.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Waterbug_ Espionage Group Rolls Out Brand-New Toolset in Attacks Against Governments.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-06-03.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Zebrocy Multilanguage Malware Salad.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-06-05.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"scattered-canary.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-07-07.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"FIN7.5_ the infamous cybercrime rig \\u201cFIN7\\u201d continues its activities.pdf\",\n    \"APT37_Final1stspyReapingtheFreeMilk-Intezer.pdf\",\n    \"InfrastructureandSamplesofHamas'AndroidMalwareTargetingIsraeliSoldiers-ClearSkyCyberSecurity.pdf\",\n    \"Tropic Trooper\\u2019s New Strategy.pdf\"\n  ]\n}"
+  },
+  {
+    "category": "Temporal",
+    "instruction": "Report all cyber threat activity recorded on 2019-07-08.",
+    "input": "Timeline Analysis",
+    "output": "{\n  \"metadata\": {\n    \"agent\": \"TheCyberOpinion\",\n    \"status\": \"verified\",\n    \"source\": \"Internal_CTI_DB\",\n    \"format\": \"json\"\n  },\n  \"data\": [\n    \"Operation Tripoli .pdf\",\n    \"Supply Chain \\u2013 The Major Target of Cyberespionage Groups.pdf\"\n  ]\n}"
+  }
+]
